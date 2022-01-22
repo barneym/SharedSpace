@@ -10,14 +10,10 @@
 		},
 		{
 			"Name": "RigLogic",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "LiveLink",
-			"Enabled": true
-		},
-		{
-			"Name": "LiveLinkControlRig",
 			"Enabled": true
 		},
 		{
